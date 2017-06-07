@@ -10,3 +10,5 @@ The package can be downloaded here and installed like any other R packages or in
     library(devtools)
     install_github("larryyang1980/ImmGenR")
 ```
+
+## Usage
