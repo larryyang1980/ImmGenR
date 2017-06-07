@@ -1,0 +1,13 @@
+Package: ImmGenR
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Liang Yang
+Maintainer: ImmGenR Package Maintainer <immgen@hms.harvard.edu>
+VignetteBuilder: knitr
+Description: Provides a convenient API for accessing data sets within
+    ImmGenR (www.immgen.org), the data repository
+URL: https://github.com/larryyang1980/ImmGenR
+License: GPL
+Encoding: UTF-8
+LazyData: true
